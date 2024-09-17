@@ -1,0 +1,36 @@
+body{
+    background-color: #d3f0f0;
+    font-family: sans-serif;
+}
+ul{
+    list-style-type: circle;
+}
+img{ 
+    width: 400pх;
+}
+.yes{
+    background-color: #b6e7cc;
+    color: #000;
+}
+.no{
+    background-color: rgb(175, 160, 189);
+    color: #000000;
+}
+ol{
+    width: 500px;
+    list-style-position: inside;
+    padding-left: 0%;
+}
+ul{
+
+    width: 500px;
+    list-style-position: inside;
+    padding-left: 0%;
+}
+ol li{
+    padding: 5px;
+}
+.ppp{
+    background-color: #b6e7cc;
+    color: #000 
+}
